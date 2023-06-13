@@ -23,7 +23,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Hello Rails Backend <a name="about-project"></a>
+# 📖 Hello React Frontend <a name="about-project"></a>
 
 Hello React Frontend is a react js application to display information gotten from a back-end application
 ## 🛠 Built With <a name="built-with"></a>
