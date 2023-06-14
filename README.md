@@ -14,6 +14,7 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
+  - [Backend](#backend)
   - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
@@ -23,7 +24,7 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 Hello Rails Backend <a name="about-project"></a>
+# 📖 Hello React Frontend <a name="about-project"></a>
 
 Hello React Frontend is a react js application to display information gotten from a back-end application
 ## 🛠 Built With <a name="built-with"></a>
@@ -91,6 +92,10 @@ To run tests, run the following command:
 ```sh
 yarn test
 ```
+
+### Backend
+
+You can find the backend application [here](https://github.com/anderCM/hello-rails-back-end)
 
 ### Deployment
 To deploy this application you can use Github pages, Netlify, Railway or similar.
